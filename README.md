@@ -16,10 +16,6 @@
 
 Computer Science  - The Ural State University, Ekaterinburg. Graduated 2007.
 
-# Open Source
-
-[github](https://github.com/andrewstalin)
-
 # Work Experience
 
 ## SKB Kontur Novosibirsk Dec 11 -
