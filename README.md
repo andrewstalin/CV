@@ -20,6 +20,8 @@ Computer Science  - The Ural State University, Ekaterinburg. Graduated 2007.
 
 ## SKB Kontur Novosibirsk Dec 11 -
 
+* Develop of the integration system for interaction with Rosreestr (Spring Boot, Java, Kotlin)
+* Develop infrastructure for building asynchronous, distributed micro-service systems (Java)
 * Design and develop 1C extension for communicating with the HTTP-server via XML-RPC (C++)
 * Design and develop plugins for browsers: ActiveX, NPAPI, js-ctypes, Native Messaging (C++, JavaScript)
 * Develop desktop application for client notification (C++, Sciter)
