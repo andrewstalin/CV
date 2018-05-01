@@ -9,7 +9,7 @@
 
 * C/C++ (4 years)
 * .NET (5 years) 
-* Java (1 year)
+* Java (4 year)
 * Database: SQL, MongoDB 
 
 # Education
