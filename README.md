@@ -18,7 +18,11 @@ Computer Science  - The Ural State University, Ekaterinburg. Graduated 2007.
 
 # Work Experience
 
-## SKB Kontur Novosibirsk Dec 11 -
+## Yandex Apr 21
+* Improving the effectiveness of advertising engine
+* Development of advertising banner system
+
+## SKB Kontur Novosibirsk Dec 11 - Apr 21
 
 * Develop of the integration system for interaction with Rosreestr (Spring Boot, Java, Kotlin)
 * Develop infrastructure for building asynchronous, distributed micro-service systems (Java)
