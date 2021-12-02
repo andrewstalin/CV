@@ -19,8 +19,10 @@ Computer Science  - The Ural State University, Ekaterinburg. Graduated 2007.
 
 # Work Experience
 
-## SKB Kontur Novosibirsk Sep 21
+## SKB Kontur Novosibirsk Oct 21
 ### head of engineering
+* Improving the development process
+* Technical quality metrics
 
 ## Yandex Novosibirsk Apr 21 - Oct 21
 ### principal engineer
