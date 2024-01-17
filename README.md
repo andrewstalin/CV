@@ -18,9 +18,6 @@
 Computer Science  - The Ural State University, Ekaterinburg. Graduated 2007.
 
 # Work Experience
-## Tinkoff Mar 2022
-### senior software engineer
-
 ## SKB Kontur Novosibirsk Oct 2021 - Feb 2022
 ### head of engineering
 * Improving the development process
